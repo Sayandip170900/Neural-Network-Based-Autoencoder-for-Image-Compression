@@ -1,1 +1,1 @@
-# Neural-Network-Based-Autoencoder-for-Image-Compression
+This is an Autoencoder model which is used to achieve an image compression using Convolutional Neural Networks. An Autoencoder is a CNN that learns to compress images by downsampling the images, thereby extracting ‘features’ and then reconstructing the original ‘pixels’ using a series of upsampling layers.
